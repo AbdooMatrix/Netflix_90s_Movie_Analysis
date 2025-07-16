@@ -37,8 +37,6 @@ Netflix\_90s\_Movie\_Analysis/
 - ⏱️ Average duration: ~`95 minutes`
 - 🔞 Common ratings: `TV-MA`, `PG-13`, and `R`
 
-_(Replace these with your real results if they differ)_
-
 ## 🚀 How to Run
 
 1. Clone the repository:
