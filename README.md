@@ -16,9 +16,9 @@ As a data analyst for a production company focused on nostalgic media, your task
 
 ```
 
-Netflix\_90s\_Movie\_Analysis/
-├── Netflix\_90s\_Movie\_Analysis.ipynb   # Jupyter Notebook with full analysis
-├── netflix\_data.csv                     # Original dataset
+Netflix_90s_Movie_Analysis/
+├── Netflix_90s_Movie_Analysis.ipynb   # Jupyter Notebook with full analysis
+├── netflix_data.csv                     # Original dataset
 ├── README.md                             # This file
 
 ````
