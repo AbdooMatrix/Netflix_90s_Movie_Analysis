@@ -1,4 +1,3 @@
-```markdown
 # 🎬 Netflix 1990s Movie Analysis
 
 This project explores and analyzes **1990s movies available on Netflix**, uncovering trends, ratings, durations, and genre distributions using Python and pandas.
@@ -66,5 +65,3 @@ The dataset is based on [Netflix Movies and TV Shows](https://www.kaggle.com/shi
 
 Made with ❤️ by **Abdelrahman Mostafa**
 GitHub: [@AbdooMatrix](https://github.com/AbdooMatrix)
-
-````
