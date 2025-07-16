@@ -53,13 +53,12 @@ _(Replace these with your real results if they differ)_
 
 ## 📥 Dataset Source
 
-The dataset is based on [Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows) from Kaggle. The analysis filters only movies released between 1990 and 1999.
+The dataset used in this project is a **CSV file** (`netflix_titles.csv`) that contains information about Netflix’s catalog of movies and TV shows.
 
-## 💡 Future Improvements
+For this analysis, the data was **filtered to include only movies released between 1990 and 1999**.
 
-* Add visualizations of actor/director frequency
-* Compare 90s movies vs. other decades
-* Dashboard version with Streamlit or Power BI
+- File: `data/netflix_titles.csv`
+- Columns used: `type`, `title`, `release_year`, `duration`, `listed_in`, `rating`
 
 ## 📬 Contact
 
